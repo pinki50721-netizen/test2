@@ -20,3 +20,4 @@ datas=[{"name":"Tom","score":100},
 ]
 add(datas)
 print('저장')
+print("끝")
